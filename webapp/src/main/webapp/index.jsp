@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> DEVOPS CI CD</h1>
+    <h1> DEVOPS CI CD Pipeline</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
     <label for="Name"><b>Enter Name</b></label>
